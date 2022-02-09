@@ -1,0 +1,9 @@
+y=int(input('enter the first number:'))
+z=int(input('enter the second number:'))
+print(y>z)
+print(y<z)
+print(y<=z)
+print(y>=z)
+print(y==z)
+print(y!=z)
+
